@@ -1,0 +1,78 @@
+Check all that apply:
+
+Teamwork
+
+_*__We were proactive
+
+_*__We began with the end in mind
+
+_*__We put first things first
+
+_*__We looked for win-wins
+
+__*_We sought first to understand, then be understood
+
+_*__We synergized
+
+__*_We sharpened the saw
+
+ 
+
+_*_We assigned team roles
+
+_*_We assigned used a communication system (GitHub, Discord, etc.)
+
+_*_We organized 2-3 scrums per week.
+
+_*_We each contributed one aspect of a product, system, or service
+
+ 
+
+Repository
+
+___Includes Project Presentation Directory (based on initial elevator pitch) include links
+
+to repository and chatbot.
+
+_*__Includes README.md – give users and collaborators important instructions, project
+
+history, version history, style sheet, etc.
+
+__*_Includes License.md
+
+___Includes Inclusivity.md – facilitate a fair and equitable writing infrastructure.
+
+___Includes SystemMemory.md – List of system prompts and list of system files used
+
+to train the machine.
+
+___Includes SystemMemory Directory – include all files used to train machine
+
+_*__Includes ProcessDescriptionVerification.md
+
+ 
+
+Technical Writing
+
+_*__We clearly organized content (Title, headings, paragraphs, sentences, bullet points.)
+
+_*__We used strong topic sentences
+
+_*__We wrote concisely and used language to guide reader through paragraph content
+
+__*_We used active voice and action verbs
+
+__*_We labeled all figures and provided alt-text for all images.  
+
+ 
+
+AI Use Verification
+
+___We verified all AI research
+
+___We verified all AI invention
+
+___We verified all AI drafting
+
+___We verified all AI revisions
+
