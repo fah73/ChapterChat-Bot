@@ -1,5 +1,5 @@
 # ChapterChat
-A chatbot project that employs a Gemini Gem to contribute to a more dicussion based, exploratory chatbot.
+A chatbot project that employs a Gemini Gem to contribute to a more dicussion based, exploratory experience.
 
 # Instructions
 The intention of ChapterChat is to allow deeper exploration of a text that a student may have to read for a high school course. Users should employ ChapterChat when a particular text or passage proves confusing or interesting, as the chatbot will respond with questions to further a student's critical thinking.
