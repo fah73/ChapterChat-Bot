@@ -30,7 +30,7 @@ _*_We each contributed one aspect of a product, system, or service
 
 Repository
 
-___Includes Project Presentation Directory (based on initial elevator pitch) include links
+_*__Includes Project Presentation Directory (based on initial elevator pitch) include links
 
 to repository and chatbot.
 
@@ -40,13 +40,13 @@ history, version history, style sheet, etc.
 
 __*_Includes License.md
 
-___Includes Inclusivity.md – facilitate a fair and equitable writing infrastructure.
+__*_Includes Inclusivity.md – facilitate a fair and equitable writing infrastructure.
 
-___Includes SystemMemory.md – List of system prompts and list of system files used
+_*__Includes SystemMemory.md – List of system prompts and list of system files used
 
 to train the machine.
 
-___Includes SystemMemory Directory – include all files used to train machine
+_*__Includes SystemMemory Directory – include all files used to train machine
 
 _*__Includes ProcessDescriptionVerification.md
 
@@ -65,14 +65,5 @@ __*_We used active voice and action verbs
 __*_We labeled all figures and provided alt-text for all images.  
 
  
-
-AI Use Verification
-
-___We verified all AI research
-
-___We verified all AI invention
-
-___We verified all AI drafting
-
-___We verified all AI revisions
+No AI was used in the making of this chatbot.
 
